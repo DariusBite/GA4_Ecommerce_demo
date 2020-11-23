@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "GA4 Ecommerce Demo"
